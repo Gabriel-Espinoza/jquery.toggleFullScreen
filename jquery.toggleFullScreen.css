@@ -1,0 +1,9 @@
+.toggleFullScreen-FullScreen {
+    width: 100% !important;
+    height: 100% !important;
+    top: 0 !important;
+    left: 0 !important;
+    position: fixed !important;
+    display: block !important;
+    z-index: 999999 !important;
+}
