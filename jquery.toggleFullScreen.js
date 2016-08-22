@@ -79,19 +79,3 @@
    }
 
 }(jQuery));
-
-
-
-// $(document).ready(function () {
-
-//     $(this).toggleFullScreen(caca);
-
-//     $(document).find("[data-toggleFullScreen='true']").click(function () {
-//         $(this).toggleFullScreen(caca);
-//     });
-
-// });
-
-// function caca(a,b,c) {
-//     alert(a);
-// }
